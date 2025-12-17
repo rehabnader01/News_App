@@ -31,7 +31,7 @@
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/newsly.git
+   git clone https://github.com/rehabnader01/News_App.git
    ```
 
 2. Get Flutter packages:
