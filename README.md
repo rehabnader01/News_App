@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-| Home Screen                              | Category Screen                                  |
+| Home Screen                              | News Screen                                  |
 | ---------------------------------------- | ------------------------------------------------ |
 | ![Home Screen](Screens_NewsApp/home.png) | ![Category Screen](Screens_NewsApp/category.png) |
 
